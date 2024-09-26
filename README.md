@@ -14,7 +14,7 @@ This project is a part of the Embedded Systems course at Birkbeck University. It
 - The project uses the DC motor for controlling the speed of the vehicle.
 
 ## Requirements
-- AVR Studio 5.0 or later
+- Eclipse IDE 
 - AVR Development Board
 - LCD Display
 - Keypad
@@ -50,8 +50,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- Dr. M.A. Karim
-- Dr. M.A. Ashraf
-- Dr. M.A. Muneeb
-- Dr. M.A. Waqas
+
